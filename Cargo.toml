@@ -24,6 +24,7 @@ members = [
     "video/rspng",
     "video/hsv",
     "video/webp",
+    "videofx/border",
     "text/wrap",
     "text/json",
     "text/regex",

@@ -33,6 +33,7 @@ endif
 
 plugins_rep = {
   'audio/audiofx': 'libgstrsaudiofx',
+  'videofx/border': 'libgstborder',
   'video/cdg': 'libgstcdg',
   'audio/claxon': 'libgstclaxon',
   'utils/fallbackswitch': 'libgstfallbackswitch',
